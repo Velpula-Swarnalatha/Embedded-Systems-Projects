@@ -1,4 +1,4 @@
-# Task 1 – Temperature Monitoring
+# Temperature Monitoring System
 
 ## Components
 
