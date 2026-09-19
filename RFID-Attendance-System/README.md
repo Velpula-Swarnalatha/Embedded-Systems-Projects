@@ -1,4 +1,4 @@
-# Task 2 – RFID Attendance
+# RFID Attendance System
 
 ## Components
 
